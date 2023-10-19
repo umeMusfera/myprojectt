@@ -1,0 +1,24 @@
+.calc{
+    background-color: gray;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 10px;
+    
+}
+
+.button{
+    color: bisque;
+    border: 2px solid bisque;
+    background-color: black;
+    padding: 5px;
+    width: 60px;
+    white-space:normal;
+    margin: 5px;
+    border-radius: 9px;
+}
+#firstinp{
+    width: 200px;
+}
+#lastinp{
+    width: 210px;
+}
